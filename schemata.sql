@@ -1,4 +1,4 @@
-﻿-- QuickDBD export and specify Data Types, Primary Keys and Foreign Keys 
+﻿-- Create a table schema for each of the six CSV files and specify Data Types, Primary Keys and Foreign Keys 
 -- Import CSV data into SQL table
 
 CREATE TABLE "departments" (
