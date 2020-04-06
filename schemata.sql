@@ -1,5 +1,5 @@
 ﻿-- Create a table schema for each of the six CSV files and specify Data Types, Primary Keys and Foreign Keys 
--- Import CSV data into SQL table
+-- Import each CSV file into the corresponding SQL table.
 
 CREATE TABLE "departments" (
     "dept_no" VARCHAR (4)  NOT NULL,
