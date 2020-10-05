@@ -9,7 +9,7 @@ A research project on employees of the corporation from the 1980s and 1990s. All
 
 1. Data Modeling
 
-![ERD.png](ERD.png)
+![images/ERD.png](ERD.png)
 
 2. Data Engineering
 
@@ -36,8 +36,8 @@ A table schema (specifying data types, primary keys, foreign keys, and other con
 
 The SQL database is then imported into Pandas and  visualizations are generated for the employee data as below:
 
-![Average-Salary-byTitle.png](Average-Salary-byTitle.png)
+![images/Average-Salary-byTitle.png](Average-Salary-byTitle.png)
 
-![salary_range_employees.png](salary_range_employees.png)
+![images/salary_range_employees.png](salary_range_employees.png)
 
 
